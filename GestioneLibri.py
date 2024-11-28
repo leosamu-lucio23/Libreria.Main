@@ -42,10 +42,7 @@ def LibriDisponibili():
      print(f"{i}")
     
 
-
-
-
-
+    
 def LibriPrestito() :
     ricerca = input("Che libro cerchi?\n")
     LibriPrestito = input()
